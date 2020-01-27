@@ -1,2 +1,3 @@
 # hello-world
-Intial Github repository 
+This repository will hold barious hello-world projects
+
